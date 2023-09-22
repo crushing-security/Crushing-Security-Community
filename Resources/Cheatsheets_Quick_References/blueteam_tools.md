@@ -24,6 +24,12 @@
 - 🚒 [ir-rescue](https://github.com/diogo-fernan/ir-rescue) - Comprehensive Windows incident response script.
 - 📖 [Live Response Collection](https://github.com/kevthehermit/LiveResponseCollection) - Collection of scripts for gathering forensic evidence.
 
+### File Management and Text Editing
+
+- 📦 [7-Zip](https://www.7-zip.org/) - File archiver with a high compression ratio.
+- 📖 [Notepad++](https://notepad-plus-plus.org/) - Free source code editor and Notepad replacement.
+
+
 ### Memory Analysis Tools
 
 - 🧠 [AVML](https://github.com/microsoft/avml) - Volatile memory acquisition tool.
@@ -32,6 +38,10 @@
 - 🌌 [Rekall](https://github.com/google/rekall) - Memory forensic framework.
 - 🌌 [Volatility](https://github.com/volatilityfoundation/volatility) - Advanced memory forensics framework.
 
+### Network Analysis
+
+- 🌐 [Wireshark](https://www.wireshark.org/) - Widely-used network protocol analyzer.
+  
 ### Log Analysis Tools
 
 - 📜 [APT Hunter](https://github.com/StrangerealIntel/APT-Hunter) - Threat hunting tool for windows event logs.
@@ -47,6 +57,19 @@
 - 🚀 [Fast Incident Response (FIR)](https://github.com/certsocietegenerale/FIR) - Cyber incident management platform.
 - 🎫 [RTIR](https://bestpractical.com/rtir/) - Incident handling system.
 - 🔄 [Shuffle](https://github.com/frikky/Shuffle) - General-purpose security automation platform.
+
+### Remote Management
+
+- 🗄️ [WinSCP](https://winscp.net/eng/index.php) - Popular free SFTP and FTP client for Windows.
+- 📡 [Putty](https://www.putty.org/) - Free SSH and telnet client for Windows.
+
+  
+### System Monitoring
+
+- 🗂️ [Autoruns](https://docs.microsoft.com/en-us/sysinternals/downloads/autoruns) - Shows you what programs are configured to run during system bootup or login.
+- 🕵️ [Procmon](https://docs.microsoft.com/en-us/sysinternals/downloads/procmon) - Advanced monitoring tool for Windows.
+- 🛠️ [Process Hacker](https://processhacker.sourceforge.io/) - Multi-purpose tool that helps you monitor system resources.
+- 📝 [Regshot](https://sourceforge.net/projects/regshot/) - Registry compare utility that takes snapshots.
 
 ---
 
