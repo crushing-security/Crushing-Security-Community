@@ -4,4 +4,4 @@ Here, you'll find in-depth analyses of various Advanced Persistent Threat (APT) 
 
 #### Index of APT Groups
 
-* [storm-0558](https://community.crushingsecurity.com/t/storm-0558/1
+* [storm-0558](https://community.crushingsecurity.com/t/storm-0558/1)
