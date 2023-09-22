@@ -1,8 +1,16 @@
 {
   "Resources": {
-    "Podcasts": {
+    "podcasts": {
       "url": "https://community.crushingsecurity.com/t/testing-github-automation/124",
       "folder": "General_Resources"
+    },
+    "youtube_channels": {
+      "url": "https://community.crushingsecurity.com/t/testing-github-automation/124",
+      "folder": "General_Resources"
+    },
+    "blueteam_tools": {
+      "url": "https://community.crushingsecurity.com/t/testing-github-automation/124",
+      "folder": "Cheatsheets_Quick_References"
     }
   }
 }
