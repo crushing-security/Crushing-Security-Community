@@ -1,5 +1,8 @@
 {
   "Resources": {
-    "Podcasts": "https://community.crushingsecurity.com/t/testing-github-automation/124"
+    "Podcasts": {
+      "url": "https://community.crushingsecurity.com/t/testing-github-automation/124",
+      "folder": "General_Resources"
+    }
   }
 }
