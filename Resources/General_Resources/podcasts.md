@@ -33,7 +33,7 @@
 - [The Shared Security Show](https://sharedsecurity.net/) — Collaborative discussions on the latest in cybersecurity.
 - [The 443 Security Simplified](https://www.secplicity.org/category/the-443/) — Making cybersecurity understandable for everyone.
 - [Adventures of Alice and Bob](https://www.beyondtrust.com/podcast) — A journey into the world of cybersecurity, one story at a time.
-- [Cybersecurity Today by ITWC](https://www.itworldcanada.com/podcasts/cyber-security) — Updates and discussions on the latest cybersecurity trends.
+- [Cybersecurity Today by ITWC](https://www.itworldcanada.com/podcasts/cyber-security) — Updates and discussions on the latest cybersecurity trends and news.
 
 ## 🎙️ Tech & Cybersecurity News 🎙️
 
