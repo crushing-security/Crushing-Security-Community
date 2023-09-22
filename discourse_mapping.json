@@ -1,15 +1,15 @@
 {
   "Resources": {
     "podcasts": {
-      "url": "https://community.crushingsecurity.com/t/testing-github-automation/124",
+      "url": "https://community.crushingsecurity.com/t/cybersecurity-podcasts/121",
       "folder": "General_Resources"
     },
     "youtube_channels": {
-      "url": "https://community.crushingsecurity.com/t/testing-github-automation/124",
+      "url": "https://community.crushingsecurity.com/t/cybersecurity-youtube-channels/103",
       "folder": "General_Resources"
     },
     "blueteam_tools": {
-      "url": "https://community.crushingsecurity.com/t/testing-github-automation/124",
+      "url": "https://community.crushingsecurity.com/t/blue-team-tools-master/118",
       "folder": "Cheatsheets_Quick_References"
     }
   }
