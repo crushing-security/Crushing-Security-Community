@@ -1,16 +1,40 @@
 {
   "Resources": {
+    "blueteam_tools": {
+      "url": "https://community.crushingsecurity.com/t/blue-team-tools-master/118",
+      "folder": "Cheatsheets_Quick_References"
+    },
+    "cybersecurity_conferences": {
+      "url": "https://community.crushingsecurity.com/t/2023-cybersecurity-summits/108",
+      "folder": "Cybersecurity_Summits_Conferences"
+    },
+    "free_cybersecurity_courses": {
+      "url": "https://community.crushingsecurity.com/t/free-courses-masterlist/116",
+      "folder": "Courses_Practical_Security_Challenges_CTFs"
+    },
     "podcasts": {
       "url": "https://community.crushingsecurity.com/t/cybersecurity-podcasts/121",
       "folder": "General_Resources"
     },
+    "practical_security_challenges": {
+      "url": "https://community.crushingsecurity.com/t/practical-security-challenges-ctfs-masterlist/117",
+      "folder": "Courses_Practical_Security_Challenges_CTFs"
+    },
+    "redteam_tools": {
+      "url": "https://community.crushingsecurity.com/t/red-team-tools-master/119",
+      "folder": "Cheatsheets_Quick_References"
+    },
+    "student_resources": {
+      "url": "https://community.crushingsecurity.com/t/student-cybersecurity-project-resources-masterlist/123",
+      "folder": "Education_Student_Resources"
+    },
+    "threat_intelligence": {
+      "url": "https://community.crushingsecurity.com/t/master-page-threat-intelligence-wiki/113",
+      "folder": "Threat_Intelligence"
+    },
     "youtube_channels": {
       "url": "https://community.crushingsecurity.com/t/cybersecurity-youtube-channels/103",
       "folder": "General_Resources"
-    },
-    "blueteam_tools": {
-      "url": "https://community.crushingsecurity.com/t/blue-team-tools-master/118",
-      "folder": "Cheatsheets_Quick_References"
     }
   }
 }
