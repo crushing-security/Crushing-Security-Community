@@ -1,5 +1,8 @@
 # Cybersecurity YouTube Channels
 
+## Introduction
+Welcome to our curated list of YouTube channels dedicated to cybersecurity. From tutorials to news updates, these channels offer a visual and interactive way to stay updated and educated.
+
 ## :computer: Technical Analysis & Forensics
 
 - [13Cubed](https://www.youtube.com/@13Cubed) — Exploring digital forensics tools and incident handling.
@@ -55,5 +58,8 @@
 
 ---
 
-> 💬 **Contribute to the Masterlist!** For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/cybersecurity-youtube-channels/103). If you have technical contributions or specific issues related to the content of this repository, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues). By contributing, you can earn Crushing Security Community Forum badges based on GitHub contributions.
+> 💬 **Contribute to the Cybersecurity YouTube Channels List!**  
+> If you have a YouTube channel to recommend or feedback on the current list, we'd love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/cybersecurity-youtube-channels/103). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
+> 🔗 [Check out our full resource masterlist](https://community.crushingsecurity.com/t/comunity-resource-masterlist/90)  
+> 📖 [How to Contribute?](https://community.crushingsecurity.com/t/about-the-resources-category/84)
 
