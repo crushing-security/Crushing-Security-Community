@@ -1,5 +1,8 @@
 # Cybersecurity Podcasts
 
+## Introduction
+Tune in to the ever-changing world of cybersecurity with our handpicked list of podcasts. Whether you're commuting, working out, or just relaxing, these podcasts will keep you informed and entertained.
+
 ## 🎙️ Cybersecurity Insights 🎙️
 
 - [Cyber Work](https://www.infosecinstitute.com/podcast/) — Exploring the nuances of cybersecurity careers and industry insights.
@@ -79,4 +82,8 @@
 
 ---
 
-> 💬 **Contribute to the Masterlist!** For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/cybersecurity-podcasts/121). If you have technical contributions or specific issues related to the content of this repository, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues). By contributing, you can earn Crushing Security Community Forum badges based on GitHub contributions.
+> 💬 **Contribute to the Cybersecurity Podcasts List!**  
+> If you have a podcast recommendation or feedback on the current list, we'd love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/cybersecurity-podcasts/121). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
+> 🔗 [Check out our full resource masterlist](https://community.crushingsecurity.com/t/comunity-resource-masterlist/90)  
+> 📖 [How to Contribute?](https://community.crushingsecurity.com/t/about-the-resources-category/84)
+
