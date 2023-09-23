@@ -1,3 +1,8 @@
+# Practical Security Challenges
+
+## Introduction
+Welcome to the community-driven CTF and security challenge resource center. This space is dedicated to hands-on, practical challenges that help hone your cybersecurity skills. Whether you're a beginner looking to get started or an expert seeking a challenge, this list has something for everyone.
+
 ### **🌐 Introduction**
 
 Welcome to the community-driven CTF and security challenge resource center. This space is dedicated to hands-on, practical challenges that help hone your cybersecurity skills. Whether you're a beginner looking to get started or an expert seeking a challenge, this list has something for everyone.
@@ -47,4 +52,8 @@ Welcome to the community-driven CTF and security challenge resource center. This
 * 🔐 [Hacker Test](http://www.hackertest.net/) - A platform to test your skills in cryptography, JavaScript, and visual problem-solving.
 
 
-📢 **Contribute to the Masterlist!** If you know of any other practical challenges or CTFs or have feedback on the existing ones, please share in the comments below or edit this Wiki to add your own.
+> 💬 **Contribute to the Practical Security Challenges List!**  
+> If you have any CTFs or security challenges that should be added, we'd love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/practical-security-challenges-ctfs-masterlist/117). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
+> 🔗 [Check out our full resource masterlist](https://community.crushingsecurity.com/t/comunity-resource-masterlist/90)  
+> 📖 [How to Contribute?](https://community.crushingsecurity.com/t/about-the-resources-category/84)
+
