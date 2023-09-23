@@ -1,3 +1,8 @@
+# Free Cybersecurity Courses
+
+## Introduction
+Welcome to our collection of free cybersecurity courses. Whether you're just starting out or looking to deepen your expertise, these courses offer valuable insights into the world of cybersecurity, without the price tag.
+
 #### 🛡️ **Introduction to Cybersecurity**
 
 * 🌐 [**Introduction to Cyber Security with Case Study: WhatsApp Attack by Great Learning**](https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-cyber-security)
@@ -33,5 +38,8 @@
 * 🌐 [**Cyber Aces by SANS Institute**](https://www.sans.org/cyberaces/)
 * 🌐 [**Computer Systems Security by Massachusetts Institute of Technology**](https://ocw.mit.edu/courses/6-858-computer-systems-security-fall-2014/)
 
+> 💬 **Contribute to the Free Cybersecurity Courses List!**  
+> Know of any other free courses that should be on this list? Your insights are valuable to us. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/free-courses-masterlist/116). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
+> 🔗 [Check out our full resource masterlist](https://community.crushingsecurity.com/t/comunity-resource-masterlist/90)  
+> 📖 [How to Contribute?](https://community.crushingsecurity.com/t/about-the-resources-category/84)
 
-📢 **Contribute to the Masterlist!** If you know of any other free courses or have feedback on the existing ones, please share in the comments below or edit this Wiki to add your own :)
