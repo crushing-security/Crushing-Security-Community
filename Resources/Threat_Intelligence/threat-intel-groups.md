@@ -10,6 +10,6 @@ Stay ahead of cyber threats with our list of Threat Intelligence Groups. This re
 
 ---
 > 💬 **Contribute to the Threat Intelligence Groups List!**  
-> If you're aware of any threat intelligence groups or have feedback on the current list, we'd love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/threat-intelligence-groups/108). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
+> If you're aware of any threat intelligence groups or have feedback on the current list, we'd love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/master-page-threat-intelligence-wiki/113). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
 > 🔗 [Check out our full resource masterlist](https://community.crushingsecurity.com/t/comunity-resource-masterlist/90)  
 > 📖 [How to Contribute?](https://community.crushingsecurity.com/t/about-the-resources-category/84)
