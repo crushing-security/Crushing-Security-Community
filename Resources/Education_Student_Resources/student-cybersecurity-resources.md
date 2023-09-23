@@ -1,4 +1,7 @@
-Welcome to the Student Cybersecurity Project Resources Masterlist! Here, we've curated a list of hands-on projects and platforms to help budding cybersecurity enthusiasts hone their skills. Whether you're a beginner or an advanced learner, these resources offer a range of challenges to test and improve your knowledge.
+# Student Cybersecurity Resources
+
+## Introduction
+Welcome, students! This resource list is tailored to help you navigate the educational landscape of cybersecurity. From scholarships to student-friendly tools, find everything you need to kickstart your cybersecurity journey here.
 
 * **[100-redteam-projects](https://github.com/kurogai/100-redteam-projects)**: A collection of red teaming challenges, ranging from OSINT, web application attacks, to binary exploitation.
 * **[OWASP WebGoat](https://github.com/WebGoat/WebGoat)**: A deliberately insecure web application maintained by OWASP designed to teach web application security lessons.
@@ -12,4 +15,8 @@ Welcome to the Student Cybersecurity Project Resources Masterlist! Here, we've c
 
 :warning: Always remember to practice ethical hacking. Use these resources responsibly and ensure you have the necessary permissions when testing on platforms not designed for it.
 
-:loudspeaker: **Contribute to the Masterlist!** If you know of any other resources for students' projects or have feedback on the existing ones, please share in the comments below or edit this Wiki to add your own :slight_smile:
+> 💬 **Contribute to the Student Cybersecurity Resources List!**  
+> If you're a student or educator with resources to share, we'd love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/student-cybersecurity-project-resources-masterlist/123). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
+> 🔗 [Check out our full resource masterlist](https://community.crushingsecurity.com/t/comunity-resource-masterlist/90)  
+> 📖 [How to Contribute?](https://community.crushingsecurity.com/t/about-the-resources-category/84)
+
