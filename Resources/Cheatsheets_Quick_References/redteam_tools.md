@@ -1,3 +1,8 @@
+# Redteam Tools
+
+## Introduction
+Step into the world of offensive cybersecurity with our Red Team Tools resource list. This compilation is designed to equip you with the tools and techniques for penetration testing and ethical hacking. Uncover vulnerabilities like a pro!
+
 ### **Note Taking**
 
 * 📝 [CherryTree](https://www.giuspen.com/cherrytree/): A hierarchical note-taking application.
@@ -126,4 +131,8 @@
 * 📊 [LOLBAS](https://lolbas-project.github.io/): Living Off The Land Binaries and Scripts - (and also Libraries).
 * 🌐 mimikatz: Utility to extract plaintexts passwords, hash, PIN code from memory.
 
-:loudspeaker: **Help Us Grow the Red Team Tools Masterlist!** If you’re aware of any other essential tools, resources, or have feedback on the current list, we’d love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/red-team-tools-master/119). If you have technical contributions or specific issues related to the content of this repository, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues). By contributing, you can earn Crushing Security Community Forum badges based on GitHub contributions. Your expertise will benefit the entire community!
+> 💬 **Contribute to the Red Team Tools List!**  
+> If you're aware of any other red team tools or have feedback on the current list, we'd love to hear from you. For general feedback, discussions, or suggestions, please join the [discussion on our Discourse forum](https://community.crushingsecurity.com/t/red-team-tools-master/119). For technical contributions, consider [opening a GitHub issue](https://github.com/crushing-security/Crushing-Security-Community/issues).  
+> 🔗 [Check out our full resource masterlist](https://community.crushingsecurity.com/t/comunity-resource-masterlist/90)  
+> 📖 [How to Contribute?](https://community.crushingsecurity.com/t/about-the-resources-category/84)
+
