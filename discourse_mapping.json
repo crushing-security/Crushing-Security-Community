@@ -4,11 +4,7 @@
       "url": "https://community.crushingsecurity.com/t/blue-team-tools-master/118",
       "folder": "Cheatsheets_Quick_References"
     },
-    "cybersecurity_conferences": {
-      "url": "https://community.crushingsecurity.com/t/2023-cybersecurity-summits/108",
-      "folder": "Cybersecurity_Summits_Conferences"
-    },
-    "free_cybersecurity_courses": {
+    "free-cybersecurity-courses": {
       "url": "https://community.crushingsecurity.com/t/free-courses-masterlist/116",
       "folder": "Courses_Practical_Security_Challenges_CTFs"
     },
@@ -16,7 +12,7 @@
       "url": "https://community.crushingsecurity.com/t/cybersecurity-podcasts/121",
       "folder": "General_Resources"
     },
-    "practical_security_challenges": {
+    "practical-security-challenges": {
       "url": "https://community.crushingsecurity.com/t/practical-security-challenges-ctfs-masterlist/117",
       "folder": "Courses_Practical_Security_Challenges_CTFs"
     },
@@ -24,11 +20,11 @@
       "url": "https://community.crushingsecurity.com/t/red-team-tools-master/119",
       "folder": "Cheatsheets_Quick_References"
     },
-    "student_resources": {
+    "student-cybersecurity-resources": {
       "url": "https://community.crushingsecurity.com/t/student-cybersecurity-project-resources-masterlist/123",
       "folder": "Education_Student_Resources"
     },
-    "threat_intelligence": {
+    "threat-intel-groups": {
       "url": "https://community.crushingsecurity.com/t/master-page-threat-intelligence-wiki/113",
       "folder": "Threat_Intelligence"
     },
