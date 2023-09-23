@@ -4,7 +4,7 @@
 This is a curated list of essential books for those interested in various aspects of cybersecurity, including Blue Team operations, Red Team activities, and general cybersecurity knowledge.
 
 ## Table of Contents
-- [Blue Team Operations](https://github.com/crushing-security/Crushing-Security-Community/blob/main/Resources/General_Resources/cybersecurity_books.md#-blue-team-operations-)
+- [Blue Team Operations](#blue-team-operations)
 
 ---
 
