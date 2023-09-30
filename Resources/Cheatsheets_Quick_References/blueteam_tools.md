@@ -53,6 +53,11 @@ Welcome to the Blue Team Tools resource center. This curated list is your go-to 
 - 📝 [Sigma](https://github.com/Neo23x0/sigma) - Generic signatures for log events.
 - 🔍 [SysmonSearch](https://github.com/JPCERTCC/SysmonSearch) - Web application to search event logs collected by Sysmon.
 
+### OSINT
+
+- 🕵️ [Passive Reconnaissance Tools](https://community.crushingsecurity.com/t/passive-reconnaissance-tools-masterlist/129) - Comprehensive guide to tools for gathering information without direct interaction.
+
+
 ### Incident Management
 
 - 🚨 [Cyphon](https://github.com/dunbarcyber/cyphon) - Incident management and response platform.
