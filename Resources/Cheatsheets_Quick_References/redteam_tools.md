@@ -23,6 +23,10 @@ Step into the world of offensive cybersecurity with our Red Team Tools resource 
 * 📄 [Created by whoisflynn](https://github.com/whosiflynn/OSCP-Exam-Report-Template): OSCP exam report template.
 * 📋 [Created by Noraj](https://github.com/noraj/OSCP-Exam-Report-Template-Markdown): Markdown OSCP exam report template.
 
+### Reconnaissance
+
+- 🕵️ [Passive Reconnaissance Tools](https://community.crushingsecurity.com/t/passive-reconnaissance-tools-masterlist/129) - Comprehensive guide to tools for gathering information without direct interaction.
+
 ### **Enumeration**
 
 * 🔍 [AutoRecon](https://github.com/Tib3rius/AutoRecon): Multi-threaded network reconnaissance tool.
