@@ -12,7 +12,28 @@ Welcome to the Passive Reconnaissance Tools resource center. This curated list p
 * 🛡️ [nslookup](https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/nslookup) - DNS Lookup Utility.
 * 🌐 [DNSdumpster](https://dnsdumpster.com/) - DNS Recon & Research.
 * 🌍 [SecurityTrails](https://securitytrails.com/) - Comprehensive Domain Information and Subdomain Enumeration.
+* 🔎 [Shodan](https://www.shodan.io/) - Search Engine for Internet-Connected Devices.
+* 🦠 [VirusTotal](https://www.virustotal.com/) - Analyzing Files and URLs for Malware and Security Threats.
+* 🛡️ [Microsoft Defender Threat Intelligence](https://ti.defender.microsoft.com/) - Accessing Threat Intelligence from Microsoft 
 
+### Deep OSINT and Data Gathering
+
+* 🕵️ [Recon-ng](https://github.com/lanmaster53/recon-ng) - A Full-featured Web Reconnaissance Framework.
+* 🌐 [Maltego](https://www.maltego.com/) - Visual Link Analysis Tool.
+* 📡 [theHarvester](https://github.com/laramies/theHarvester) - Gathering Emails, Subdomains, Hosts, and Employee Names.
+* 🌍 [Google Dorks](https://www.exploit-db.com/google-hacking-database) - Leveraging Google Search Operators for Enhanced Search.
+* 📊 [Bing Dorks](https://www.bing.com/) - Utilizing Bing Search for Advanced Querying (similar to Google Dorks).
+
+### Potential Vulnerabilities and Threats
+
+* 🚫 [Have I Been Pwned](https://haveibeenpwned.com/) - Checking Email Addresses and Usernames Against Breached Data.
+Defender.
+
+### Monitoring and Alerts
+
+* 🚨 [Google Alerts](https://www.google.com/alerts) - Setting Up Alerts for Mention of Specific Keywords or Phrases.
+* 🐦 [TweetDeck](https://tweetdeck.twitter.com/) - Monitoring Twitter for Keywords, Hashtags, and Mentions.
+  
 ### Web Technology Detection and Analysis
 
 * 🕷️ [BuiltWith](https://builtwith.com/) - Discovering Web Technologies.
