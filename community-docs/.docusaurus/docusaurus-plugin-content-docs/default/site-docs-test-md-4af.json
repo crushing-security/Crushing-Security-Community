@@ -1,0 +1,20 @@
+{
+  "unversionedId": "test",
+  "id": "test",
+  "title": "hello",
+  "description": "fff",
+  "source": "@site/docs/test.md",
+  "sourceDirName": ".",
+  "slug": "/test",
+  "permalink": "/docs/test",
+  "draft": false,
+  "editUrl": "https://github.com/crushing-security/Crushing-Security-Community/edit/main/community-docs/docs/test.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  }
+}

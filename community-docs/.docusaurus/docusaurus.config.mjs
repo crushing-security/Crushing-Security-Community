@@ -4,13 +4,13 @@
  * Modify the docusaurus.config.js file at your site's root instead.
  */
 export default {
-  "title": "My Site",
-  "tagline": "Dinosaurs are cool",
+  "title": "Crushing Security Community Docs",
+  "tagline": "Your Community-Driven Security Knowledge Hub",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://docs.crushingsecurity.com",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "crushing-security",
+  "projectName": "Crushing-Security-Community",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,11 +27,11 @@ export default {
       {
         "docs": {
           "sidebarPath": "/home/steve/development/csec_internal/apps/Crushing-Security-Community-1/community-docs/sidebars.js",
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/crushing-security/Crushing-Security-Community/edit/main/community-docs/"
         },
         "blog": {
           "showReadingTime": true,
-          "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
+          "editUrl": "https://github.com/crushing-security/Crushing-Security-Community/edit/main/community-docs/blog/"
         },
         "theme": {
           "customCss": "/home/steve/development/csec_internal/apps/Crushing-Security-Community-1/community-docs/src/css/custom.css"
